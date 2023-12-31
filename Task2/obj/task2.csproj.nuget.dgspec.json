@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Education\\GB C#\\Lesson 1\\task2\\task2.csproj": {}
+    "C:\\Education\\GB C#\\Lesson 1\\Task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Education\\GB C#\\Lesson 1\\task2\\task2.csproj": {
+    "C:\\Education\\GB C#\\Lesson 1\\Task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Education\\GB C#\\Lesson 1\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Education\\GB C#\\Lesson 1\\Task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Education\\GB C#\\Lesson 1\\task2\\task2.csproj",
+        "projectPath": "C:\\Education\\GB C#\\Lesson 1\\Task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Zhamilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Education\\GB C#\\Lesson 1\\task2\\obj\\",
+        "outputPath": "C:\\Education\\GB C#\\Lesson 1\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zhamilia\\AppData\\Roaming\\NuGet\\NuGet.Config"
